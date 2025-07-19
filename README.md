@@ -119,7 +119,7 @@ Built using Power BI, the dashboard consists of **Three main pages** :
   - 'Price': Of the 9 customers who mentioned price, the distribution was 2 ‘Low Loyalty’, 4 ‘Medium Loyalty’, and 3 ‘High Loyalty’, showing a varied impact.
 
 ### Page 3 – Detailed
-Detailed analysis of Customers by geography, including State, Location, Customer Satisfaction breakdown.  This page provides insight into managing customer satisfaction.
+In-depth geographic analysis of customer satisfaction across states and locations. This page highlights satisfaction trends by region, helping identify areas needing service improvements and targeted engagement.
 
 You can interact with report here [Onyx Data](https://app.powerbi.com/view?r=eyJrIjoiYjJiNzU4ZTktNDlkZS00YmZlLWI2YTEtMTI5YmIyOTY1MzA1IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
