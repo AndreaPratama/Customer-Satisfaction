@@ -1,5 +1,7 @@
 # Customer Satisfaction and Loyalty Analytics – OmniRetail
 
+ ![](hero.jpg) 
+
 ## 1. Introduction
 This project analyzes customer satisfaction and loyalty at OmniRetail, a U.S. retail chain specializing in electronics and smart home products. The goal is to uncover insights from customer behavior, feedback, demographics, and regional data collected throughout 2024.
 
