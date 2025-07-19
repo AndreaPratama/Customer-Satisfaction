@@ -96,6 +96,12 @@ Built using Power BI, the dashboard consists of **Three main pages** :
   - Group: 'Group A' (High frequency buyers) value ‘Customer Service’ & ‘Price’. 'Group B' (Medium frequency shoppers) prioritize ‘Delivery Speed’.
 
 ### Page 2 – Loyalty
+**Key KPIs** : Customer Loyalty Breakdown (`Low`, `Medium`, `High`) and Most Common Satisfaction
+
+- Customer Loyalty and satisfactoin distribution
+- Loyalty Accros Satisfaction levels
+
+**Insights Covered**:
 - *Loyalty vs. Satisfaction*
   - High Loyalty: Average Satisfaction Score ~5.87 and only 16.67% ‘Dissatisfied’.
   - Low Loyalty: Average Satisfaction Score of ~4.98 and 40.48% ‘Dissatisfied’.
